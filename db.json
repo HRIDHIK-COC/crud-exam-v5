@@ -1,0 +1,46 @@
+{
+  "Patients": [
+    {
+      "id": 1,
+      "name": "abc",
+      "age": 30,
+      "date": "30",
+      "reason": "fever"
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "age": 25,
+      "date": "24",
+      "reason": "cough"
+    },
+    {
+      "id": 3,
+      "name": "ghi",
+      "age": 20,
+      "date": "19",
+      "reason": "diarreah"
+    },
+    {
+      "name": "ravi",
+      "age": 40,
+      "date": "21",
+      "reason": "cut",
+      "id": 4
+    },
+    {
+      "name": "manu",
+      "age": 23,
+      "date": "44",
+      "reason": "bleed",
+      "id": 5
+    },
+    {
+      "name": "sanu",
+      "age": 93,
+      "date": "24",
+      "reason": "coo",
+      "id": 6
+    }
+  ]
+}
